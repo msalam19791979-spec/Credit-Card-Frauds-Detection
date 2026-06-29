@@ -1,4 +1,17 @@
 # Credit-Card-Fraud-Detection
+
+NAME :- *MISHKAT NOORI*
+
+COMPANY :- *CODTECH IT SOLUTIONS*
+
+Intern I'D :- *CITS3420*
+
+DOMAIN :- *Artificial Intelligence*
+
+DURATION :- *8 WEEKS FROM 06th JUNE TO 1st AUGUST 2026*
+
+MENTOR :- *NEELA SANTHOSH KUMAR*
+
 Fraud Detection model based on anonymized credit card transactions
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
